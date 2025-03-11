@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ReferralPolicy</name>
+   <tag></tag>
+   <elementGuidId>068f9797-07b7-4ba1-9310-b7733748b8eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.link1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Referral Policy')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Referral Policy&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>62f3ab57-a625-405f-9d76-9a00bdcfefca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link1</value>
+      <webElementGuid>b3620b97-8804-4c3c-a535-c32221092c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:OpenFile('Employee Referral Policy.pdf')</value>
+      <webElementGuid>b94cabab-cf07-487c-a14b-18d7fa20e498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-policyname</name>
+      <type>Main</type>
+      <value>Referral Policy</value>
+      <webElementGuid>ed56d2c0-b0ce-40ad-b8a8-1097b14c30a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-policycode</name>
+      <type>Main</type>
+      <value>HR/POL/Ref</value>
+      <webElementGuid>a671a126-c12e-466b-99fa-0c4504d8c712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-version</name>
+      <type>Main</type>
+      <value>2.0</value>
+      <webElementGuid>e307436d-4844-4485-b733-4adf33f3a912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Referral Policy</value>
+      <webElementGuid>1aa6921a-fd76-45ce-add0-e076e38137e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/form[1]/table[@class=&quot;main_green&quot;]/tbody[1]/tr[4]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;main_grid&quot;]/tbody[1]/tr[2]/td[1]/table[@class=&quot;grid&quot;]/tbody[1]/tr[@class=&quot;row2&quot;]/td[2]/a[@class=&quot;link1&quot;]</value>
+      <webElementGuid>de5b130d-d14a-4784-b76f-7c01b783b39e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NutsAndBoltObjectRepository/Page_Nuts  Bolts/iframe_Policies  Forms_myIframe</value>
+      <webElementGuid>ddfd9815-f142-40d8-9287-42a9b7158b5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Referral Policy')]</value>
+      <webElementGuid>e2ab0b6a-eeb7-485d-b71f-f7a8bf8af72e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruitment &amp; Selection'])[1]/following::a[1]</value>
+      <webElementGuid>480bd342-6221-46e1-9506-c3be4cd203d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acknowledgement Status'])[1]/following::a[1]</value>
+      <webElementGuid>d5b16f37-3ff6-4916-87b2-2f6428412981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aug 01, 2024'])[1]/preceding::a[1]</value>
+      <webElementGuid>4ef4ee86-4a5e-49ae-9ee9-764412e67bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personnel Management'])[1]/preceding::a[2]</value>
+      <webElementGuid>181cc997-5df3-408c-8ca3-60fdcf4380ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Referral Policy']/parent::*</value>
+      <webElementGuid>df445db4-7faf-4e95-a92a-0222f3aec464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:OpenFile('Employee Referral Policy.pdf')&quot;)]</value>
+      <webElementGuid>b80b3f1f-eb02-48c2-a654-dbc782d3be45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>a6a6d334-a7e6-4249-8073-14528674a1fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:OpenFile(&quot; , &quot;'&quot; , &quot;Employee Referral Policy.pdf&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Referral Policy' or . = 'Referral Policy')]</value>
+      <webElementGuid>b791e43d-7bcb-4ae9-b4fd-d1f68463959f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

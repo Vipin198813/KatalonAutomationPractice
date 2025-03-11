@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>APIDataDrivenTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>5dd27e93-24c4-43ba-9b66-8c9ebf6d21ba</testSuiteGuid>
+   <testCaseLink>
+      <guid>ee6163d4-726d-4199-a8eb-ee33a84f2503</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/APIDataDrivenTest</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>110eb377-334c-46ac-b2bc-66b6d436dc74</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>110eb377-334c-46ac-b2bc-66b6d436dc74</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Capital</value>
+         <variableId>cc4acf20-e81a-478a-9ef6-81d6240f5068</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>110eb377-334c-46ac-b2bc-66b6d436dc74</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Currency1</value>
+         <variableId>26878b01-c482-4807-b77e-502da36d4b5a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>110eb377-334c-46ac-b2bc-66b6d436dc74</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CountryCode</value>
+         <variableId>d5cb21cb-d87c-4c9a-84af-46d0267e1291</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

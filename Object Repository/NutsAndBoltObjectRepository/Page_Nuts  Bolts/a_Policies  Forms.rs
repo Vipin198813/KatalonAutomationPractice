@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Policies  Forms</name>
+   <tag></tag>
+   <elementGuidId>5e725db4-414c-4481-8272-4880e4d4acf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layoutMain']/app-sidemenu/div/div/div[2]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Policies &amp; Forms&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>78f07f4c-e440-49b1-99e2-b0e0e97ee1fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>6cde1a43-319e-47fc-98ce-ed864ef82cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Policies &amp; Forms</value>
+      <webElementGuid>3e5b126a-d4a8-4483-b9e5-b2a1457b40ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layoutMain&quot;)/app-sidemenu[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bfc-slide-menu open&quot;]/div[@class=&quot;menuExpand ng-star-inserted&quot;]/div[@class=&quot;menuScroller ng-star-inserted&quot;]/ul[@class=&quot;nav flex-column&quot;]/li[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>1b38c6c3-0ced-4e12-bbf7-aec3c26180c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layoutMain']/app-sidemenu/div/div/div[2]/ul/li[6]/a</value>
+      <webElementGuid>34707eb6-e29e-4bb6-98b0-b892691a9abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Policies &amp; Forms')]</value>
+      <webElementGuid>716f4ddc-71b2-4ab3-afbd-eb24b408b0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Salary'])[1]/following::a[1]</value>
+      <webElementGuid>b8d66176-b8d6-4736-bbb8-b66664ddb908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Service Request'])[1]/following::a[2]</value>
+      <webElementGuid>9924c16f-f468-41b7-9323-32da5380b4fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Damco Finance Portal'])[1]/preceding::a[1]</value>
+      <webElementGuid>a6e663db-c4b0-4456-b1e3-f8a45ffe37e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Damco Path'])[1]/preceding::a[2]</value>
+      <webElementGuid>2dc06313-a63d-49c0-8640-4b38b197651d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Policies &amp; Forms']/parent::*</value>
+      <webElementGuid>9f77841c-05bb-4d8a-ada8-10cb7ca85469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[6]/a</value>
+      <webElementGuid>36a2cf39-0820-43da-9391-1a4779b17fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Policies &amp; Forms' or . = 'Policies &amp; Forms')]</value>
+      <webElementGuid>86c420cf-a89b-4566-b946-f60d91833cbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

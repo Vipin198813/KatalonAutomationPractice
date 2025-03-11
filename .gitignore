@@ -1,4 +1,25 @@
+<<<<<<< HEAD
 
+=======
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+.cache
+>>>>>>> branch 'master' of https://github.com/Vipin198813/KatalonAutomationPractice.git
 /bin/
 /Libs/
 /.settings/
